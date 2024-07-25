@@ -1,0 +1,26 @@
+Service Provider
+
+Login,
+Train and Test Data Sets, 
+View Trained and Tested Accuracy in Bar Chart, 
+View Trained and Tested Accuracy Results, 
+Predict Jop Post Type Details, 
+Find Jop Post Type Prediction Ratio, 
+Download Trained Data Sets, 
+View Jop Post Type Prediction Ratio Results, 
+View All Remote Users.
+
+Remote User
+
+
+REGISTER AND LOGIN,
+POST JOB POST DATA SETS, 
+PREDICT JOB POST PREDICTION, 
+VIEW YOUR PROFILE.
+
+Members
+
+Job_Id,
+Actual_Fake,
+Predicted_Fake,
+Prediction_Details.
